@@ -35,6 +35,12 @@
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
 </p>
 
+
+
+<p><img align="left" width="49%" src="https://github-readme-stats.vercel.app/api?username=okariuss&show_icons=true&locale=en" alt="okariuss" /></p>
+
+<p>&nbsp;&nbsp;<img align="center" width="40.5%" src="https://github-readme-stats.vercel.app/api/top-langs?username=okariuss&show_icons=true&locale=en&layout=compact" alt="okariuss" /></p>
+
 <!--
 **Okariuss/Okariuss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
