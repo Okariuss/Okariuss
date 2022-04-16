@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=okariuss&label=Profile%20views&color=0e75b6&style=flat" alt="okariuss" /> </p>
 
-- 🌱 I’m currently learning **android developer with flutter and .NET with C#.**
+- 🌱 I’m currently learning **android developer with flutter and Kotlin.**
 
 - 💬 Ask me about **Java**
 
