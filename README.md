@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **android developer with flutter and Kotlin.**
 
-- 💬 Ask me about **Java**
+- 💬 Ask me about **Java**, **Flutter**
 
 - 📫 How to reach me **orkunokann@gmail.com**
 
