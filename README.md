@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=okariuss&label=Profile%20views&color=0e75b6&style=flat" alt="okariuss" /> </p>
 
-- 🌱 I’m currently learning **iOS developer with flutter and Swift.**
+- 🌱 **iOS developer with flutter and Swift.**
 
 - 💬 Ask me about **Swift**, **Flutter**
 
