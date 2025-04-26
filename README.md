@@ -1,55 +1,96 @@
-<h1 align="center">Hi I'm Okan 👋</h1>
-<h3 align="center">I'm a Mobile Developer</h3>
+# Okan Orkun 👋  
+### iOS Developer | Swift, SwiftUI, Objective-C Enthusiast | Open Source Advocate
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=okariuss&label=Profile%20views&color=0e75b6&style=flat" alt="okariuss" /> </p>
+---
 
-- 🌱 **Mobile developer with Flutter and Swift.**
+[![Okan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=okariuss&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&hide=prs&theme=dracula)](https://github.com/okariuss)
 
-- 💬 Ask me about **Swift**, **Flutter**
+> Passionate about creating **scalable**, **high-performance mobile apps** with **Swift** and **Objective-C**. Currently leading an **open-source project series** across iOS, Android, and Backend.
 
-- 📫 How to reach me **orkunokann@gmail.com**
+---
 
-- 📄 Know about my experiences in [**my resume**](/CV.pdf)
+### About Me
 
-- ⚡ Fun fact **I love playing tennis.**
+👨‍💻 I'm a passionate iOS developer with hands-on experience in **Swift**, **SwiftUI**, and **Objective-C**.  
+I've worked on **enterprise-level mobile projects** for companies like **Turkish Airlines (THY)** and **Mavi**.  
+My focus is on **clean architecture**, **modular code**, and **performance optimization**.
 
-<h3 align="left">Connect with me:</h3>
+🔭 **Currently working on**:  
+- A **30-project open-source series** covering iOS, Android, and backend technologies.
+- Creating high-quality, maintainable applications with **best practices** in mind.
 
-<p align="left">
-<a href="https://www.linkedin.com/in/okan-orkun-b1777a216/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="okan-orkun" height="30" width="40" /></a>
-  <a href="https://www.instagram.com/okanorkunn/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="okanorkunn" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/orkunokann?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="orkunokann" height="30" width="40" /></a>
-</p>
+🌱 I'm always learning and improving my skills in mobile development and expanding my knowledge in backend systems, cloud technologies, and **machine learning**.
 
-<h3 align="left">Languages and Tools:</h3>
+---
 
-<p align="left"> 
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-  <a href="https://www.swift.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a>
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/> </a>
-</p>
- 
-</p>
+### 📣 Let's Connect
 
-<p><img align="left" width="49%" src="https://github-readme-stats.vercel.app/api?username=okariuss&show_icons=true&locale=en" alt="okariuss" /></p>
+<a href="https://www.linkedin.com/in/okan-orkun-b1777a216/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Okan%20Orkun-blue?style=flat-square&logo=linkedin&logoColor=white" /></a>  
+<a href="https://github.com/okariuss" target="_blank"><img src="https://img.shields.io/badge/GitHub-okariuss-181717?style=flat-square&logo=github&logoColor=white" /></a>  
+<a href="mailto:orkunokann@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-orkunokann%40gmail.com-blue?style=flat-square&logo=gmail&logoColor=white" /></a>
 
-<p>&nbsp;&nbsp;<img align="center" width="40.5%" src="https://github-readme-stats.vercel.app/api/top-langs?username=okariuss&show_icons=true&locale=en&layout=compact" alt="okariuss" /></p>
+---
 
-<!--
-**Okariuss/Okariuss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠️ Technologies & Tools
 
-Here are some ideas to get you started:
+**Languages**:  
+- ![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
+- ![Objective-C](https://img.shields.io/badge/Objective_C-000000?style=flat-square&logo=objective-c&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Mobile Development**:  
+- ![iOS](https://img.shields.io/badge/iOS-000000?style=flat-square&logo=ios&logoColor=white)
+- ![SwiftUI](https://img.shields.io/badge/SwiftUI-0091D2?style=flat-square&logo=swiftui&logoColor=white)
+
+**Backend**:  
+- ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
+- ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+
+**Cloud/Database**:  
+- ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white)
+- ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+- ![AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+
+**Tools & Platforms**:  
+- ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+- ![Xcode](https://img.shields.io/badge/Xcode-1575F9?style=flat-square&logo=xcode&logoColor=white)
+
+---
+
+### 🌟 Highlighted Projects
+
+#### [Turkish Airlines (THY) Internal App](https://github.com/okariuss/THY-InternalApp)
+A mobile application for Turkish Airlines' internal operations, built using **Swift** and **Objective-C**.  
+- Modular architecture  
+- Performance optimization  
+- Multi-platform integration
+
+#### [Mavi Mobile App](https://github.com/okariuss/Mavi-App)
+A feature-rich mobile app for Mavi customers with **Objective-C** and **AWS**.  
+- Built with **AWS** for cloud services integration
+- Scalable backend architecture  
+- Clean and maintainable Objective-C codebase
+
+---
+
+### 📈 GitHub Stats
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=okariuss&layout=compact&theme=dracula&hide_title=true)](https://github.com/okariuss)
+
+---
+
+### 📚 Continuous Learning & Contributions
+
+I'm always working on improving my skills. Here are a few things I'm currently learning or contributing to:
+- **Clean Architecture** for better scalability and maintainability in mobile apps.
+- **Machine Learning** integration for iOS apps.
+- **Backend technologies** like **Spring Boot** and **Java**.
+- Contributing to open-source **iOS libraries** and **Android projects**.
+
+---
+
+⚡ **Fun Fact**:  
+I play tennis and always strive for improvement, both on and off the court!
+
+---
+
+[LinkedIn](https://www.linkedin.com/in/okan-orkun-b1777a216/) | [GitHub](https://github.com/okariuss) | [Email](mailto:orkunokann@gmail.com)
