@@ -5,7 +5,7 @@
 
 [![Okan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=okariuss&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&hide=prs&theme=dracula)](https://github.com/okariuss)
 
-> Passionate about creating **scalable**, **high-performance mobile apps** with **Swift** and **Objective-C**. Currently leading an **open-source project series** across iOS, Android, and Backend.
+> Passionate about creating **scalable**, **high-performance mobile apps** with **Swift** and **Objective-C**.
 
 ---
 
