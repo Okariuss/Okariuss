@@ -1,5 +1,5 @@
 # Okan Orkun 👋  
-### iOS Developer | Swift, SwiftUI, Objective-C Enthusiast | Open Source Advocate
+### iOS Developer | Swift | UIKit | SwiftUI | Objective-C
 
 ---
 
@@ -16,7 +16,7 @@ I've worked on **enterprise-level mobile projects** for companies like **Turkish
 My focus is on **clean architecture**, **modular code**, and **performance optimization**.
 
 🔭 **Currently working on**:  
-- A **30-project open-source series** covering iOS, Android, and backend technologies.
+- Advancing **SwiftUI** skills by building **UI challenges** with **best practices**.
 - Creating high-quality, maintainable applications with **best practices** in mind.
 
 🌱 I'm always learning and improving my skills in mobile development and expanding my knowledge in backend systems, cloud technologies, and **machine learning**.
@@ -84,7 +84,6 @@ I'm always working on improving my skills. Here are a few things I'm currently l
 - **Clean Architecture** for better scalability and maintainability in mobile apps.
 - **Machine Learning** integration for iOS apps.
 - **Backend technologies** like **Spring Boot** and **Java**.
-- Contributing to open-source **iOS libraries** and **Android projects**.
 
 ---
 
